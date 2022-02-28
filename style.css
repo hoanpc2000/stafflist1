@@ -1,0 +1,35 @@
+ .table h1 {
+     background-color: rgb(15, 15, 255);
+     color: white;
+     font-size: 20px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+ 
+ #divright {
+     width: 50%;
+     height: 104px;
+     float: left;
+ }
+ 
+ #divleft {
+     height: 104px;
+     float: left;
+     width: 50%;
+ }
+ 
+ #divleft input {
+     width: 68%;
+     height: 25px;
+     text-align: left;
+     border-radius: 5px;
+     background: white;
+ }
+ 
+ #divright input {
+     width: 68%;
+     height: 25px;
+     text-align: left;
+     border-radius: 5px;
+     background: white;
+ }
